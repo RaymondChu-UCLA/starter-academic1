@@ -46,7 +46,7 @@ design:
 
 **Basic Qualifying Exam:** Basic Qualifying Exam Solutions (Spring 2010 - Spring 2020) [pdf](https://www.math.ucla.edu/~rchu/Basic.pdf)
 
-**Basic Qualifying Exam:** Honors Real Analysis (Math 131AH and 131BH) notes [131AH](https://www.math.ucla.edu/~rchu/131AH.pdf), [131BH 1/2](https://www.math.ucla.edu/~rchu/131BH1.pdf), and [131BH 2/2](https://www.math.ucla.edu/~rchu/131BH2.pdf)
+**Basic Qualifying Exam:** Honors Real Analysis (Math 131AH and 131BH) lecture notes [131AH](https://www.math.ucla.edu/~rchu/131AH.pdf), [131BH 1/2](https://www.math.ucla.edu/~rchu/131BH1.pdf), and [131BH 2/2](https://www.math.ucla.edu/~rchu/131BH2.pdf)
 
 **Disclaimer**:
 
