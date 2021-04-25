@@ -1,26 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raymond Chu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Mathematics Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of California, Los Angeles
+  url: https://ww3.math.ucla.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a first year Ph.D student at UCLA.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Partial Differential Equations
 
 # Education to show in About widget
 education:
