@@ -57,7 +57,7 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-I am a first year PhD student at UCLA. I was born and raised in Los Angeles and went to UCLA as an Applied Math major. I am studying Partial Differential Equations under the supervision of Professor Inwon Kim.
+I am a first year PhD student studying mathematics at UCLA. I was born and raised in Los Angeles and went to UCLA for my undergraduate as an Applied Math major. I am studying Partial Differential Equations under the supervision of Professor Inwon Kim.
 
 As an undergraduate, I worked with Professor Marcus Roper on interial migration of particles. Currently I am a Teaching Assisstant for Math 131B (Real Analysis) at UCLA.
 
