@@ -11,7 +11,7 @@ main:
     url: '#teaching'
     weight: 20
   - name: Notes
-    url: '#Notes'
+    url: '#notes'
     weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
