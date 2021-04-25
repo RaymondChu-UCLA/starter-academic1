@@ -48,7 +48,7 @@ design:
 
 **Basic Qualifying Exam:** Honors Real Analysis (Math 131AH and 131BH) notes [131AH](https://www.math.ucla.edu/~rchu/131AH.pdf), [131BH 1/2](https://www.math.ucla.edu/~rchu/131BH1.pdf), and [131BH 2/2](https://www.math.ucla.edu/~rchu/131BH2.pdf)
 
-Disclaimer:
+**Disclaimer**:
 
 These are my solutions to the analysis qualifying exam and basic qualifying exams at UCLA. There may be some errors and typos.
 
