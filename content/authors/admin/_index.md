@@ -59,4 +59,6 @@ highlight_name: false
 
 I am a first year PhD student at UCLA. I was born and raised in Los Angeles and went to UCLA as an Applied Math major. I am studying Partial Differential Equations under the supervision of Professor Inwon Kim.
 
+I am currently a Teaching Assisstant for Math 131B (Real Analysis) at UCLA.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
