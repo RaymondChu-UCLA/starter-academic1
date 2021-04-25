@@ -50,6 +50,6 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-I am a first year PhD student at UCLA. I was born and raised in Los Angeles and went to UCLA as an Applied Math major. I am studying Partial Differential Equations and Analysis under Professor Inwon Kim.
+I am a first year PhD student at UCLA. I was born and raised in Los Angeles and went to UCLA as an Applied Math major. I am studying Partial Differential Equations and Analysis under Professor Inwon Kim   url: https://www.math.ucla.edu/~ikim/
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
