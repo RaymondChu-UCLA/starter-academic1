@@ -50,7 +50,7 @@ design:
 
 **Disclaimer**:
 
-These are my solutions to the analysis qualifying exam and basic qualifying exams at UCLA. Almost surely, there will be some errors and typos in my solutions. Please email me any errors or typos in my solution.
+These are my solutions to the analysis qualifying exam and basic qualifying exams at UCLA. Almost surely, there will be some errors and typos in my solutions. Please email me any errors or typos in my solutions.
 
 The Honors Real Analysis Lecture Notes are from Professor Visan's Math 131AH and 131BH class from Fall 2017 and Winter 2018. I would like to thank my friend Damien Lefebvre for typing up the lecture notes.
 
