@@ -19,8 +19,8 @@ bio: I am a first year PhD student at UCLA.
 # Interests to show in About widget
 interests:
 - Partial Differential Equations
+- Calculus of Variations
 - Mathematical Modeling
-- Analysis
 
 # Education to show in About widget
 education:
@@ -59,6 +59,6 @@ highlight_name: false
 
 I am a first year PhD student studying mathematics at UCLA. I was born and raised in Los Angeles and went to UCLA for my undergraduate as an Applied Math major. I am studying Partial Differential Equations under the supervision of [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/)
 
-As an undergraduate, I worked with [Professor Marcus Roper](https://www.marcusroper.org) on interial migration of particles where I was selected as an [Undergraduate Research Fellow](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp/). Currently I am a Teaching Assisstant for Math 131B (Real Analysis) at UCLA.
+As an undergraduate, I worked with [Professor Marcus Roper](https://www.marcusroper.org) on interial migration of particles where I was selected as an [Undergraduate Research Fellow](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp/). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
