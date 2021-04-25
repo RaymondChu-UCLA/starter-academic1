@@ -41,10 +41,10 @@ design:
 ---
 **2021**
 
-**Spring 2021** UCLA Math 131B  (Real Analysis) 
+**Spring 2021:** UCLA Math 131B  (Real Analysis) 
 
-**Winter 2021** UCLA Math 142  (Mathematical Modeling) [Review](https://www.math.ucla.edu/~rchu/142_W21_Review.pdf)
+**Winter 2021:** UCLA Math 142  (Mathematical Modeling) [Review](https://www.math.ucla.edu/~rchu/142_W21_Review.pdf)
 
 **2020**
 
-**Fall 2020** UCLA Math 31A (Differential and Integral Calculus) [Review](https://www.math.ucla.edu/~rchu/31A_F20_Review.pdf)
+**Fall 2020:** UCLA Math 31A (Differential and Integral Calculus) [Review](https://www.math.ucla.edu/~rchu/31A_F20_Review.pdf)
