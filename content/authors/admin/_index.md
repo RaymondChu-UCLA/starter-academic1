@@ -19,6 +19,8 @@ bio: I am a first year PhD student at UCLA.
 # Interests to show in About widget
 interests:
 - Partial Differential Equations
+- Mathematical Modeling
+- Analysis
 
 # Education to show in About widget
 education:
@@ -34,6 +36,11 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 
 
 # Link to a PDF of your resume/CV.
