@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Teaching'
 subtitle:
 
 content:
@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+*UCLA Math 131B*
