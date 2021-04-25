@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  email: "rchu@math.ucla.edu"
 
 
 # Link to a PDF of your resume/CV.
