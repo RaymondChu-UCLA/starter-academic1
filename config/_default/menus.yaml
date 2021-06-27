@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Qualification Exam
+  - name: Qualification Exams
     url: '#notes'
     weight: 20
   - name: Teaching
