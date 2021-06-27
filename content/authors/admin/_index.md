@@ -56,9 +56,9 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-I am a first year PhD student studying mathematics at UCLA, where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Analysis and Applied Mathematics. I am currently working on the Analysis of Partial Differential Equations related to Tumor Growth and Populatio Dynamics.
+I am a first year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Analysis and Applied Mathematics. I am currently working on the Analysis of Partial Differential Equations related to Tumor Growth and Population Dynamics.
 
 
-As an undergraduate, I worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles where I was selected as an [Undergraduate Research Fellow](http://sciences.ugresearch.ucla.edu/programs-and-scholarships/urfp/). 
+As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
 {{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://www.math.ucla.edu/~rchu/CV.pdf) (last updated 06/04/21).
