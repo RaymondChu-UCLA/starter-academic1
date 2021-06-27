@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Notes'
+title: 'Qualification Exams'
 subtitle:
 
 content:
@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-**UCLA Math Qualifying Exam Solutions and Notes22** 
+**UCLA Math Qualifying Exam Solutions and Notes** 
 
 **Analysis Qualifying Exam:** Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
 
