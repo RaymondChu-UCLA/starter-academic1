@@ -40,8 +40,6 @@ design:
   view: 2
 ---
 
-**UCLA Math Qualifying Exam Solutions and Notes** 
-
 **Analysis Qualifying Exam:** Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
 
 **Basic Qualifying Exam:** Basic Qualifying Exam Solutions (Spring 2010 - Spring 2020) [pdf](https://www.math.ucla.edu/~rchu/Basic.pdf)
