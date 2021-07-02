@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-I am honored to have recieved the [Horn-Moez Prize](https://ww3.math.ucla.edu/departmental-awards/) in Spring 2021 for excellence in my first year of graduate studies. I hope these resources help future students with their preparation for their exams.
+I am honored to have recieved the [Horn-Moez Prize](https://ww3.math.ucla.edu/departmental-awards/) in Spring 2021 for excellence in my first year of graduate studies and qualification exam results. I hope these resources help future students with their preparation for their exams.
 
 **Analysis Qualifying Exam:** Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
 
