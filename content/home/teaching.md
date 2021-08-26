@@ -39,6 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+**Fall 2021** UCLA Math 266A (Applied Ordinary Differential Equations)
 
 **Spring 2021:** UCLA Math 131B  (Real Analysis)  [Review](https://www.math.ucla.edu/~rchu/131B_S21_Review.pdf)
 
