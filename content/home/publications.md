@@ -41,8 +41,11 @@ design:
 ---
 
 **Submitted** 
+
 **Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section** S. Christensen, **R. Chu**, C. Anderson, M. Roper
 
 **In Preparation** 
+
 **On the Hele-Shaw Limit with a Dynamic Density Constraint and Drift** **R. Chu**
+
 **A Theory For Curvature-Induced Migration In Inertial Microﬂuidic Devices** **R. Chu**, S. Christensen, A. Bertozzi, H. Ji, M. Roper
