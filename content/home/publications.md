@@ -41,7 +41,7 @@ design:
 ---
 
 **Submitted** 
-**Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section** S. Christensen, **R.Chu**, C. Anderson, M. Roper
+**Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section** S. Christensen, **R. Chu**, C. Anderson, M. Roper
 
 **In Preparation** 
 **On the Hele-Shaw Limit with a Dynamic Density Constraint and Drift** **R. Chu**
