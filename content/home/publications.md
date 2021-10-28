@@ -42,7 +42,7 @@ design:
 
 **Submitted:** 
 
-S. Christensen, **R. Chu**, C. Anderson, M. Roper, *Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section* 
+S. Christensen, **R. Chu**, C. Anderson, M. Roper, *Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section* [arXiv](https://arxiv.org/abs/2110.13979) 
 
 **In Preparation:** 
 
