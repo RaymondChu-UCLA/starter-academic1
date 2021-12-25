@@ -19,6 +19,7 @@ bio: I am a first year PhD student at UCLA.
 # Interests to show in About widget
 interests:
 - Partial Differential Equations
+- Probability Theory
 - Calculus of Variations
 - Mathematical Modeling
 
@@ -56,7 +57,7 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-Hi! I am a second year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Analysis and Applied Mathematics. I am currently working on the Analysis of Partial Differential Equations related to Tumor Growth and Population Dynamics.
+Hi! I am a second year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Analysis and Applied Mathematics. I am primarily working on the Analysis of Partial Differential Equations. Currently, I am working on using Stochastic Optimal Control to understand Interface Problems.
 
 
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
