@@ -14,7 +14,7 @@ organizations:
   url: https://ww3.math.ucla.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a first year PhD student at UCLA.
+bio: I am a second year PhD student at UCLA.
 
 # Interests to show in About widget
 interests:
