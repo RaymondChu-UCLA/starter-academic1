@@ -57,7 +57,7 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-Hi! I am a second year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Partial Differential Equations, Probability Theory, and Applied Mathematics.
+Hi! I am a second year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Partial Differential Equations, Stochastic Processess, and Applied Mathematics.
 
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
