@@ -46,6 +46,6 @@ S. Christensen, **R. Chu**, C. Anderson, M. Roper, *Fast Asymptotic-Numerical Me
 
 **In Preparation:** 
 
- **R. Chu**, *On the Hele-Shaw Limit with a Dynamic Density Constraint and Drift*
+ **R. Chu**, *A Hele-Shaw Limit with a Variable Upper Bound and Drift*
 
  **R. Chu**, S. Christensen, A. Bertozzi, H. Ji, M. Roper, *A Theory For Curvature-Induced Migration In Inertial Microﬂuidic Devices*
