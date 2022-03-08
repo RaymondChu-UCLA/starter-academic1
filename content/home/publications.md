@@ -41,11 +41,11 @@ design:
 ---
 
 **Submitted:** 
-
+ 
+**R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644)
+ 
 S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979) 
 
 **In Preparation:** 
-
- **R. Chu**, *A Hele-Shaw Limit with a Variable Upper Bound and Drift*
 
  **R. Chu**, S. Christensen, A. Bertozzi, H. Ji, M. Roper, *A Theory For Curvature-Induced Migration In Inertial Microﬂuidic Devices*
