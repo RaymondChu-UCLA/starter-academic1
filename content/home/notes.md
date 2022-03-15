@@ -40,7 +40,11 @@ design:
   view: 2
 ---
 
-I am honored to have received the [Horn-Moez Prize](https://ww3.math.ucla.edu/departmental-awards/) for my qualification exam results. I hope these resources help future students with their preparation for their exams.
+**Disclaimer**:
+While studying for my qualification exams, I found it very helpful to type out my solutions to old exams. Almost surely, there will be some errors and typos in my solutions. I hope these resources help future students with their preparation for their exams.
+
+The Honors Real Analysis Lecture Notes are from Professor Visan's Math 131AH and 131BH class from Fall 2017 and Winter 2018. I would like to thank my friend Damien Lefebvre for typing up the lecture notes.
+
 
 **Analysis Qualifying Exam:** Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
 
@@ -48,10 +52,6 @@ I am honored to have received the [Horn-Moez Prize](https://ww3.math.ucla.edu/de
 
 **Basic Qualifying Exam:** Honors Real Analysis (Math 131AH and 131BH) lecture notes [131AH](https://www.math.ucla.edu/~rchu/131AH.pdf), [131BH 1/2](https://www.math.ucla.edu/~rchu/131BH1.pdf), and [131BH 2/2](https://www.math.ucla.edu/~rchu/131BH2.pdf)
 
-**Disclaimer**:
 
-These are my solutions to the analysis qualifying exam and basic qualifying exams at UCLA. Almost surely, there will be some errors and typos in my solutions. Please email me any errors or typos in my solutions.
-
-The Honors Real Analysis Lecture Notes are from Professor Visan's Math 131AH and 131BH class from Fall 2017 and Winter 2018. I would like to thank my friend Damien Lefebvre for typing up the lecture notes.
 
 
