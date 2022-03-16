@@ -39,8 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
-**Submitted:** 
  
 **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *In Submission*
  
