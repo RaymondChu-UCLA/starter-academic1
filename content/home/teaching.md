@@ -39,7 +39,9 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-**Winter 2022** UCLA Math 266B (Applied Partial Differential Equations)
+**Spring 2022** UCLA Math 142 (Mathematical Modeling)
+
+**Winter 2022** UCLA Math 266B (Applied Partial Differential Equations) [Review](https://www.math.ucla.edu/~rchu/266B_Review_W22.pdf)
 
 **Fall 2021** UCLA Math 266A (Applied Ordinary Differential Equations) [Review](https://www.math.ucla.edu/~rchu/266A_Review_F21.pdf)
 
