@@ -57,7 +57,7 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-Hi! I am a second year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in the connection between Partial Differential Equations and Probability Theory.
+Hi! I am a rising third year PhD student studying mathematics at University of California, Los Angeles (UCLA), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I am interested in Partial Differential Equations (PDEs). In particular, I work on Free Boundary Problems and Integro-differential equations using tools such as Probability Theory, Optimization, and PDE methods.
 
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
