@@ -61,6 +61,4 @@ Hi! I am a rising third year PhD student studying mathematics at University of C
 
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
-I am also interested in mentoring undergraduates. I am currently a committee member and mentor for the Directed Reading Program (DRP) at UCLA. I am also a graduate student represenative for the Undergraduate Studies Committee. 
-
 {{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://www.math.ucla.edu/~rchu/CV.pdf) (last updated 03/30/22).
