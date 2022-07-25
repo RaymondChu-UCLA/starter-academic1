@@ -29,6 +29,9 @@ education:
   - course: PhD in Mathematics
     institution: University of California, Los Angeles
     year: 2020-Present
+  - course: MA in Mathematics
+    institution: University of California, Los Angeles
+    year: 2020-2022
   - course: BS in Applied Mathematics
     institution: University of California, Los Angeles
     year: 2016-2020
