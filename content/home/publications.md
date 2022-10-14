@@ -39,7 +39,15 @@ design:
   #   4 = Citation (publication only)
   view: 2
 --- 
+**Accepted or Submitted*
+
 [1] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *In Submission* 
 
 [2] S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979), *Accepted to Journal of Computational Physics* 
+
+**In preparation** 
+
+[3] **R. Chu**, S. Christensen, H. Ji, M. Roper, A theory for curvature-induced migration in inertial microfluidic devices.
+
+[4] **R. Chu**, I. Kim, Y. Kim, K. Nam, [* A Stochastic Optimization Approach To The Fractional Stefan Problems*]
 
