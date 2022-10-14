@@ -39,11 +39,13 @@ design:
   #   4 = Citation (publication only)
   view: 2
 --- 
-**Accepted or Submitted**
+**Accepted**
 
-[1] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *In Submission* 
+[1] S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979), *Accepted to Journal of Computational Physics* 
 
-[2] S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979), *Accepted to Journal of Computational Physics* 
+**Submitted**
+
+[2] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *In Submission* 
 
 **In preparation** 
 
