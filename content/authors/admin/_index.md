@@ -60,7 +60,7 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-I am a rising third year PhD student studying mathematics at [UCLA](https://ww3.math.ucla.edu), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I mainly study the Analysis of Partial Differential Equations and Integro-differential equations using tools from Stochastic Analysis, Optimization, and Mathematical Analysis.
+I am a third year PhD student studying mathematics at [UCLA](https://ww3.math.ucla.edu), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I mainly study the Analysis of Partial Differential Equations and Integro-differential equations using tools from Stochastic Analysis, Optimization, and Mathematical Analysis.
 
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
