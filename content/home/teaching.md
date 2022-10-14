@@ -39,6 +39,8 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+**Fall 2022** UCLA Math 174E (Mathematical Finance)
+
 **Spring 2022** UCLA Math 142 (Mathematical Modeling)
 
 **Winter 2022** UCLA Math 266B (Applied Partial Differential Equations) [Review](https://www.math.ucla.edu/~rchu/266B_Review_W22.pdf)
