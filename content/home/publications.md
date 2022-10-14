@@ -47,7 +47,7 @@ design:
 
 **In preparation** 
 
-[3] **R. Chu**, S. Christensen, H. Ji, M. Roper, A theory for curvature-induced migration in inertial microfluidic devices.
+[3] **R. Chu**, S. Christensen, H. Ji, M. Roper, *A theory for curvature-induced migration in inertial microfluidic devices*
 
-[4] **R. Chu**, I. Kim, Y. Kim, K. Nam, [*A Stochastic Optimization Approach To The Fractional Stefan Problems*]
+[4] **R. Chu**, I. Kim, Y. Kim, K. Nam, *A Stochastic Optimization Approach To The Fractional Stefan Problems*
 
