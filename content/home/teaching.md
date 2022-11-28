@@ -39,6 +39,12 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+**Graduate Student Instructor**
+
+**Winter 2023** UCLA Math 204 (Masters Real Analysis)
+
+**Teaching Assistant**
+
 **Fall 2022** UCLA Math 174E (Mathematical Finance)
 
 **Spring 2022** UCLA Math 142 (Mathematical Modeling)
