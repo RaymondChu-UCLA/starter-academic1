@@ -51,6 +51,7 @@ While studying for my qualification exams, I found it very helpful to type out m
 
 The Honors Real Analysis Lecture Notes are from Professor Visan's Math 131AH and 131BH class from Fall 2017 and Winter 2018. I would like to thank my friend Damien Lefebvre for typing up the lecture notes.
 
+**Math 204 (Basic Qualifying Exam)** I will be posting lecture notes and homework assignments here.
 
 
 
