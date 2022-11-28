@@ -62,6 +62,8 @@ highlight_name: false
 
 I am a third year PhD student studying mathematics at [UCLA](https://ww3.math.ucla.edu), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I mainly study the Analysis of Partial Differential Equations and Integro-differential equations using tools from Stochastic Analysis, Optimization, and Mathematical Analysis.
 
+I will be the Graduate Student Insturctor of Math 204 (Masters Real Analysis) in Winter 2023. I will also be interning at Wells Fargo as a Quantitative Analyst in the Capital Markets track this summer.
+
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
 {{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://www.math.ucla.edu/~rchu/CV.pdf) (last updated 03/30/22).
