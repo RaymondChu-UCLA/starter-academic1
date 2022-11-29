@@ -43,9 +43,6 @@ design:
 
 [2] S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979), *Accepted to Journal of Computational Physics* 
 
-[3] **R. Chu**, I. Kim, Y. Kim, K. Nam, *A Stochastic Optimization Approach To The Fractional Stefan Problems*, *In preparation*
-
-[4] **R. Chu**, S. Christensen, H. Ji, M. Roper, *A theory for curvature-induced migration in inertial microfluidic devices*, *In preparation*
 
 
 
