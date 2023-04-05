@@ -45,16 +45,18 @@ design:
 
 **Teaching Assistant**
 
+**Spring 2023** UCLA Math 42 (Introduction to Data-Driven Mathematical Modeling)
+
 **Fall 2022** UCLA Math 174E (Mathematical Finance)
 
 **Spring 2022** UCLA Math 142 (Mathematical Modeling)
 
-**Winter 2022** UCLA Math 266B (Applied Partial Differential Equations) [Review](https://www.math.ucla.edu/~rchu/266B_Review_W22.pdf)
+**Winter 2022** UCLA Math 266B (Applied Partial Differential Equations) 
 
-**Fall 2021** UCLA Math 266A (Applied Ordinary Differential Equations) [Review](https://www.math.ucla.edu/~rchu/266A_Review_F21.pdf)
+**Fall 2021** UCLA Math 266A (Applied Ordinary Differential Equations)
 
-**Spring 2021:** UCLA Math 131B  (Real Analysis)  [Review](https://www.math.ucla.edu/~rchu/131B_S21_Review.pdf)
+**Spring 2021:** UCLA Math 131B  (Real Analysis)
 
-**Winter 2021:** UCLA Math 142  (Mathematical Modeling) [Review](https://www.math.ucla.edu/~rchu/142_W21_Review.pdf)
+**Winter 2021:** UCLA Math 142  (Mathematical Modeling) [Review]
 
-**Fall 2020:** UCLA Math 31A (Differential and Integral Calculus) [Review](https://www.math.ucla.edu/~rchu/31A_F20_Review.pdf)
+**Fall 2020:** UCLA Math 31A (Differential and Integral Calculus) [Review]
