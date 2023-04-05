@@ -39,6 +39,9 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+[*Teaching Evaluation Sample*](https://drive.google.com/file/d/1uOqR5lMSFKr2VhyLvIxtIHEaSr54xvrC/view?usp=sharing)
+
 **Graduate Student Instructor**
 
 **Winter 2023** UCLA Math 204 (Masters Real Analysis)
