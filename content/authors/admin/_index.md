@@ -64,4 +64,4 @@ I am a third year PhD student studying mathematics at [UCLA](https://ww3.math.uc
 
 As an undergraduate, I studied Applied Mathematics at UCLA and worked with [Professor Marcus Roper](https://www.marcusroper.org) on inertial migration of particles.
 
-{{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://www.math.ucla.edu/~rchu/CV.pdf) (last updated 03/30/22).
+{{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://drive.google.com/file/d/1Mno5us0HuCEURYJrsIOQZufqNdxJql_t/view?usp=sharing) (last updated 05/15/2023).
