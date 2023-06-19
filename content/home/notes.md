@@ -53,8 +53,9 @@ While studying for my qualification exams, I found it very helpful to type out m
 
 The Honors Real Analysis Lecture Notes are from Professor Visan's Math 131AH and 131BH class from Fall 2017 and Winter 2018. I would like to thank my friend Damien Lefebvre for typing up the lecture notes.
 
+
 **Analysis Qualifying Exam:** 
 
-**Old Exam Solutions:** Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
+*Old Exam Solutions:* Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
 
 
