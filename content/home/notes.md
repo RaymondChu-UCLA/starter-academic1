@@ -43,6 +43,10 @@ design:
 
 While studying for my qualification exams, I found it very helpful to type out my solutions to old exams. I hope these resources help future students with their preparation for their exams.
 
+**Analysis Qualifying Exam:** 
+
+[1] *Old Exam Solutions:* Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
+
 **Basic Qualifying Exam Resources:**
 
 [1] *Old Exam Solutions* Basic Qualifying Exam Solutions (Spring 2010 - Spring 2020) [pdf](https://www.math.ucla.edu/~rchu/Basic.pdf)
@@ -52,10 +56,4 @@ While studying for my qualification exams, I found it very helpful to type out m
 [3] *Math 131AH+131BH Lecture Notes* Honors Real Analysis (Math 131AH and 131BH) lecture notes [131AH](https://www.math.ucla.edu/~rchu/131AH.pdf), [131BH 1/2](https://www.math.ucla.edu/~rchu/131BH1.pdf), and [131BH 2/2](https://www.math.ucla.edu/~rchu/131BH2.pdf).
 
 The Honors Real Analysis Lecture Notes are from Professor Visan's Math 131AH and 131BH class from Fall 2017 and Winter 2018. I would like to thank my friend Damien Lefebvre for typing up the lecture notes.
-
-
-**Analysis Qualifying Exam:** 
-
-[1] *Old Exam Solutions:* Analysis Qualifying Exam Solutions (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
-
 
