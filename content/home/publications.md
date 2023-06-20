@@ -39,7 +39,6 @@ design:
   #   4 = Citation (publication only)
   view: 2
 --- 
-**Analysis of Partial Differential Equations**
 
 [1] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *Accepted to SIAM Journal on Mathematical Analysis*, **Topics:** Analysis of Partial Differential Equations
 
