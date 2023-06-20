@@ -51,7 +51,7 @@ While studying for my qualification exams, I found it very helpful to type out m
 
 [1] *Old Exam Solutions* Basic Qualifying Exam Solutions (Spring 2010 - Spring 2020) [pdf](https://www.math.ucla.edu/~rchu/Basic.pdf)
 
-[2] *Math 204 Website* Lecture Notes and Homework Made for Math 204 to prepare students for the basic [Math 204 Website](https://uclamath204.netlify.app/).
+[2] *Math 204 Website* Lecture Notes and Homework Made for Math 204 to prepare students for the basic [Math 204 Website](https://uclamath204.netlify.app/). The midterm given to the students in the class can be found on [pdf][https://drive.google.com/file/d/1Rjwq5ejEq8s1TSBq-hoEKPh-m4Le3Ao2/view?usp=sharing).
 
 [3] *Math 131AH+131BH Lecture Notes* Honors Real Analysis (Math 131AH and 131BH) lecture notes [131AH](https://www.math.ucla.edu/~rchu/131AH.pdf), [131BH 1/2](https://www.math.ucla.edu/~rchu/131BH1.pdf), and [131BH 2/2](https://www.math.ucla.edu/~rchu/131BH2.pdf).
 
