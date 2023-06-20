@@ -20,7 +20,7 @@ bio: I am a second year PhD student at UCLA.
 interests:
 - Partial Differential Equations
 - Probability Theory
-- Calculus of Variations
+- Optimization
 - Mathematical Modeling
 
 # Education to show in About widget
