@@ -40,11 +40,11 @@ design:
   view: 2
 --- 
 
-[1] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *Accepted to SIAM Journal on Mathematical Analysis*, **Topics:** Analysis of Partial Differential Equations
+[1] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *SIAM Journal on Mathematical Analysis. (2023)*, **Topics:** Analysis of Partial Differential Equations
 
-[2] S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979), *Accepted to Journal of Computational Physics*, **Topics:** Numerical Analysis
+[2] S. Christensen, **R. Chu**, C. Anderson, M. Roper, [*Fast Asymptotic-Numerical Method For Coarse Mesh Particle Simulation In Channels Of Arbitrary Cross Section*](https://arxiv.org/abs/2110.13979), *Journal of Computational Physics. (2022)*, **Topics:** Numerical Analysis
 
-[3] **R. Chu**, I. Kim, Y. Kim, K. Nam, *A Stochastic Optimization Approach To The Fractional Stefan Problems*, *In preparation*, **Topics:** Analysis of Partial Differential Equations, Probability Theory, and Stochastic Optimization
+[3] **R. Chu**, I. Kim, Y. Kim, K. Nam, *The Nonlocal Stefan Problem via Martingale Transport*, *In preparation*, **Topics:** Analysis of Partial Differential Equations, Probability Theory, and Stochastic Optimization
 
 [4] **R. Chu**, S. Christensen, H. Ji, M. Roper, *A theory for curvature-induced migration in inertial microfluidic devices*, *In preparation*, **Topics:** Mathematical Modeling
 
