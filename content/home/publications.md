@@ -39,7 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 --- 
-[1] **R. Chu**, I. Kim, Y. Kim, K. Nam, [*The Nonlocal Stefan Problem via a Martingale Transport*](https://arxiv.org/abs/2310.04640), (2023) **Topics:** Analysis of Partial Differential Equations, Probability Theory, and Stochastic Optimization
+[1] **R. Chu**, I. Kim, Y. Kim, K. Nam, [*The Nonlocal Stefan Problem via a Martingale Transport*](https://arxiv.org/abs/2310.04640), *(2023)* **Topics:** Analysis of Partial Differential Equations, Probability Theory, and Stochastic Optimization
 
 [2] **R. Chu**, [*A Hele-Shaw Limit with a Variable Upper Bound and Drift*](https://arxiv.org/abs/2203.02644), *SIAM Journal on Mathematical Analysis. (2023)*, **Topics:** Analysis of Partial Differential Equations
 
