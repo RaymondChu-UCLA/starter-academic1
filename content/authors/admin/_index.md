@@ -60,8 +60,10 @@ email: "rchu@math.ucla.edu"
 highlight_name: false
 ---
 
-Hi, I am Raymond. I am a fourth year mathematics PhD student at [UCLA](https://ww3.math.ucla.edu), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I was also an undergraduate at UCLA studying Applied Mathematics, where I was advised by [Professor Marcus Roper](https://www.marcusroper.org).
+Hi, I am Raymond. I am a fifth-year Mathematics Ph.D. student at [UCLA](https://ww3.math.ucla.edu), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I also completed my undergraduate studies at UCLA, majoring in Applied Mathematics under the guidance of [Professor Marcus Roper](https://www.marcusroper.org).
 
-For the 2024-2025 academic year, I am supported by the [Dissertation Year Award](https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/dissertation-year-fellowship/). I am also honored to have recieved the [Horn Moez Prize](https://ww3.math.ucla.edu/departmental-awards/) (2021) from UCLA Mathematics for my high academic achivements and an [Honorable Mention](https://www.nsfgrfp.org) (2022) in the National Science Foundation's Graduate Research Fellowship. I have also recieved a teaching award [Liggett Fellow Award](https://ww3.math.ucla.edu/departmental-awards/) (2023) from UCLA Mathematics.
+For the 2024-2025 academic year, I am supported by the [Dissertation Year Award](https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/dissertation-year-fellowship/). I am honored to have received the [Horn Moez Prize](https://ww3.math.ucla.edu/departmental-awards/) (2021) from UCLA Mathematics for my high academic achievements and an [Honorable Mention](https://www.nsfgrfp.org) (2022) in the National Science Foundation's Graduate Research Fellowship. Additionally, I was awarded the [Liggett Fellow Award](https://ww3.math.ucla.edu/departmental-awards/) (2023) for excellence in teaching.
 
 {{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://drive.google.com/file/d/1szkr2qyy6WLMWSmQD9XnPiwSdmd2Bovn/view?usp=share_link) (last updated April 2024).
+
+
