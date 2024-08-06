@@ -44,5 +44,6 @@ design:
 While studying for my qualification exams, I found it very helpful to type out my solutions to old exams. I hope these resources help future students with their preparation for their exams.
 
 [1] Analysis Qualifying Exam Solutions *Old Exam Solutions:* (Spring 2010 - Fall 2020) [pdf](https://www.math.ucla.edu/~rchu/Analysis.pdf)
+
 [2] Basic Qualifying Exams *Old Exam Solutions*  (Spring 2010 - Spring 2020) [pdf](https://www.math.ucla.edu/~rchu/Basic.pdf)
 
