@@ -59,11 +59,9 @@ email: "rchu@math.ucla.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at [Carnegie Mellon University](https://www.cmu.edu/math/), starting in August 2025. My research uses analytical, variational, and probabilistic methods to study physical models and to develop numerical schemes for them.
 
-Hi, I am Raymond. I am a fifth-year Mathematics Ph.D. student at [UCLA](https://ww3.math.ucla.edu), where I am advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I also completed my undergraduate studies at UCLA, majoring in Applied Mathematics under the guidance of [Professor Marcus Roper](https://www.marcusroper.org).
+I received my Ph.D. in Mathematics in 2025 from the [University of California, Los Angeles](https://ww3.math.ucla.edu), where I was advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I also completed my undergraduate studies at UCLA, majoring in Applied Mathematics under the guidance of [Professor Marcus Roper](https://www.marcusroper.org).
 
-For the 2024-2025 academic year, I am supported by the [Dissertation Year Award](https://grad.ucla.edu/funding/financial-aid/funding-for-continuing-students/dissertation-year-fellowship/). I am honored to have received the [Horn Moez Prize](https://ww3.math.ucla.edu/departmental-awards/) (2021) from UCLA Mathematics for my high academic achievements and an [Honorable Mention](https://www.nsfgrfp.org) (2022) in the National Science Foundation's Graduate Research Fellowship. Additionally, I was awarded the [Liggett Fellow Award](https://ww3.math.ucla.edu/departmental-awards/) (2023) for excellence in teaching.
-
-{{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://drive.google.com/file/d/1xb4u2q7n2Y5yS-yltGjjyXLZEamYzN9g/view?usp=share_link) (last updated November 2024).
-
+{{< icon name="download" pack="fas" >}} Download my [Curriculum Vitae](https://drive.google.com/file/d/1xb4u2q7n2Y5yS-yltGjjyXLZEamYzN9g/view?usp=share_link) (last updated May 2025).
 
