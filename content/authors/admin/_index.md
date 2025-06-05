@@ -59,7 +59,7 @@ email: "rchu@math.ucla.edu"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at [Carnegie Mellon University](https://www.cmu.edu/math/), starting in August 2025. My research uses analytical, variational, and probabilistic methods to study physical models and to develop numerical schemes for them.
+I am an NSF RTG Postdoctoral Researcher in the Department of Mathematical Sciences at [Carnegie Mellon University](https://www.cmu.edu/math/), starting in August 2025. My research uses analytical, variational, and stochastic methods to analyze and develop numerical schemes for physical models.
 
 I received my Ph.D. in Mathematics in 2025 from the [University of California, Los Angeles](https://ww3.math.ucla.edu), where I was advised by [Professor Inwon Kim](https://www.math.ucla.edu/~ikim/). I also completed my undergraduate studies at UCLA, majoring in Applied Mathematics under the guidance of [Professor Marcus Roper](https://www.marcusroper.org).
 
